@@ -1,5 +1,5 @@
 # Prepify
-***Prepify is the project I worked on with a team of four other Le Wagon Students at the end of our bootcamp.***
+***Prepify is the project I worked on with a team of three other Le Wagon Students at the end of our bootcamp.***
 ***The website was intended to be used on mobile but one of the areas of improvements will be to be displayable nicely on web as well..***
 ***The following sections will cover the different areas on which I personnaly worked and challenges encountered and future changes..***
 
